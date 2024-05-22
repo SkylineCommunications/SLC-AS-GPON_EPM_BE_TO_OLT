@@ -1,0 +1,5 @@
+C:\GitHub\Skyline\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.csproj.AssemblyReference.cache
+C:\GitHub\Skyline\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Skyline\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.AssemblyInfoInputs.cache
+C:\GitHub\Skyline\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.AssemblyInfo.cs
+C:\GitHub\Skyline\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.csproj.CoreCompileInputs.cache
