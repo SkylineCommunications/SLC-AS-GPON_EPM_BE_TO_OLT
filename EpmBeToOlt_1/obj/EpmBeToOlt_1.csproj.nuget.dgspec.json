@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\Skyline\\SLC_AS_GPON_EPM_BE_TO_OLT\\EpmBeToOlt\\EpmBeToOlt_1\\EpmBeToOlt_1.csproj": {}
+    "C:\\GitHub\\Skyline\\SLC_AS_GPON_EPM_BE_TO_OLT\\EpmBeToOlt_1\\EpmBeToOlt_1.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\Skyline\\SLC_AS_GPON_EPM_BE_TO_OLT\\EpmBeToOlt\\EpmBeToOlt_1\\EpmBeToOlt_1.csproj": {
+    "C:\\GitHub\\Skyline\\SLC_AS_GPON_EPM_BE_TO_OLT\\EpmBeToOlt_1\\EpmBeToOlt_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\Skyline\\SLC_AS_GPON_EPM_BE_TO_OLT\\EpmBeToOlt\\EpmBeToOlt_1\\EpmBeToOlt_1.csproj",
+        "projectUniqueName": "C:\\GitHub\\Skyline\\SLC_AS_GPON_EPM_BE_TO_OLT\\EpmBeToOlt_1\\EpmBeToOlt_1.csproj",
         "projectName": "EpmBeToOlt_1",
-        "projectPath": "C:\\GitHub\\Skyline\\SLC_AS_GPON_EPM_BE_TO_OLT\\EpmBeToOlt\\EpmBeToOlt_1\\EpmBeToOlt_1.csproj",
+        "projectPath": "C:\\GitHub\\Skyline\\SLC_AS_GPON_EPM_BE_TO_OLT\\EpmBeToOlt_1\\EpmBeToOlt_1.csproj",
         "packagesPath": "C:\\Users\\sofiana\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\Skyline\\SLC_AS_GPON_EPM_BE_TO_OLT\\EpmBeToOlt\\EpmBeToOlt_1\\obj\\",
+        "outputPath": "C:\\GitHub\\Skyline\\SLC_AS_GPON_EPM_BE_TO_OLT\\EpmBeToOlt_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofiana\\AppData\\Roaming\\NuGet\\NuGet.Config",
