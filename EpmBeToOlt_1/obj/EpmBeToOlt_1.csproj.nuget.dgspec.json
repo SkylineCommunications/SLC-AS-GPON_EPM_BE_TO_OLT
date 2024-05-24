@@ -45,9 +45,9 @@
               "target": "Package",
               "version": "[13.0.3, )"
             },
-            "SLC.Lib.Common": {
+            "Skyline.DataMiner.Core.InterAppCalls.Common": {
               "target": "Package",
-              "version": "[1.4.0.2, )"
+              "version": "[1.0.0.3, )"
             },
             "Skyline.DataMiner.Dev.Automation": {
               "target": "Package",
