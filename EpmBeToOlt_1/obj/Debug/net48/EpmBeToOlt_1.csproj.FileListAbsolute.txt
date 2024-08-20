@@ -3,3 +3,29 @@ C:\GitHub\Skyline\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt\EpmBeToOlt_1\obj\Debug\ne
 C:\GitHub\Skyline\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.AssemblyInfoInputs.cache
 C:\GitHub\Skyline\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.AssemblyInfo.cs
 C:\GitHub\Skyline\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.csproj.CoreCompileInputs.cache
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\EpmBeToOlt_1.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\EpmBeToOlt_1.pdb
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\EpmBeToOlt_1.xml
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\Newtonsoft.Json.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\ICSharpCode.SharpZipLib.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\Skyline.DataMiner.Core.DataMinerSystem.Common.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\Skyline.DataMiner.Core.InterAppCalls.Common.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\protobuf-net.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\Skyline.DataMiner.Storage.Types.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\SLAnalyticsTypes.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\SLLoggerUtil.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\SLManagedAutomation.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\SLNetTypes.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\SLProtoBufLibrary.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\System.Threading.Tasks.Dataflow.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.csproj.AssemblyReference.cache
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.AssemblyInfoInputs.cache
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.AssemblyInfo.cs
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.csproj.CoreCompileInputs.cache
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.sourcelink.json
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\obj\Debug\net48\EpmBeToO.06CC2736.Up2Date
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.dll
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.xml
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\obj\Debug\net48\EpmBeToOlt_1.pdb
+C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT\EpmBeToOlt_1\bin\Debug\net48\DataMinerMessageBroker.API.dll
